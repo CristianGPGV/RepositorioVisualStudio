@@ -1,9 +1,5 @@
 <!DOCTYPE html>
 //Otro
-//Otro1
-//Otro
-//Otro
-
 
 <html>
     <head>
