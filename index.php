@@ -1,11 +1,5 @@
 <!DOCTYPE html>
-//Otro
-//CAMBIO
-//CAMBIO
-//********
-//PRUEBA
-//OTRO CAMBIO
-//Añadimos la nueva línea desde la página web de github
+//Borrado lo anterior nueva línea generada en Visual Studio
 <html>
     <head>
         <meta charset="UTF-8">
